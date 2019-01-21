@@ -5,6 +5,6 @@ using namespace std;
 class settings
 {
 public:
-	open_cmd();
+	void open_cmd();
 };
 

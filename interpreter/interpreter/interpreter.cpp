@@ -1,4 +1,3 @@
-#include "pch.h"
 #include <iostream>
 #include "settings.h"
 using namespace std;
