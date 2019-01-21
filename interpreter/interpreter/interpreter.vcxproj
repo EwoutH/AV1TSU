@@ -151,11 +151,9 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClInclude Include="delete_this.h" />
     <ClInclude Include="options.h" />
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="delete_this.cpp" />
     <ClCompile Include="interpreter.cpp" />
     <ClCompile Include="options.cpp" />
   </ItemGroup>
