@@ -1,7 +1,10 @@
 #include "pch.h"
 #include <iostream>
+#include "settings.h"
+using namespace std;
 
 int main()
 {
-    std::cout << "Hello World!\n"; 
+	settings A;
+	A.open_cmd();
 }
