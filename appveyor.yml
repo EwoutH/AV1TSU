@@ -3,3 +3,7 @@ configuration: Release
 
 build:
   project: interpreter/interpreter.sln
+
+artifacts:
+    - path: bin\Release\*.*
+      name: $(APPVEYOR_PROJECT_NAME)
