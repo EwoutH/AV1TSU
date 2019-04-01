@@ -2,6 +2,7 @@
 #include <fstream>
 #include <string>
 #include "options.h"
+#include "pch.h"
 #include <windows.h>
 using namespace std;
 ofstream out("merge");
